@@ -1,0 +1,40 @@
+<?xml version="1.0" encode="UTF-8"?> 
+<data> 
+<title name="config"> 
+<xmlscript>http://www.blurrdesigns.com/apps/videoim/XML2.php?</xmlscript>
+<loading>Cargando VideoIM...</loading>
+<logintext>Ingrese un nombre de usuario para entrar</logintext>
+<loginbutton>Ingresar</loginbutton>
+<alllabel>Todos</alllabel>
+<contactslabel>Mis contactos</contactslabel>
+<contactstext1>Ingrese un usuario y haga click en Añadir</contactstext1>
+<contactssave>Añadir</contactssave>
+<contactstext2>Seleccione un usuario y haga click en eliminar</contactstext2>
+<contactsdel>Eliminar</contactsdel>
+<contactsclose>Cerrar</contactsclose>
+<blocklabel>Bloquear</blocklabel>
+<blocktext1>Ingrese un usuario y haga click en Bloquear</blocktext1>
+<blocksave>Bloquear</blocksave>
+<blocktext2>Seleccione un usuario y haga click en Desbloquear</blocktext2>
+<blockdel>Desbloquear</blockdel>
+<blockclose>Cerrar</blockclose>
+<accepttext>¿Desea aceptar este mensaje?</accepttext>
+<acceptlabel>Aceptarlo</acceptlabel>
+<acceptdec>No Aceptarlo</acceptdec>
+<acceptvtext>¿Desea aceptar esta invitación de Video de:</acceptvtext>
+<acceptvlabel>Aceptarlo</acceptvlabel>
+<acceptvdec>No Aceptarlo</acceptvdec>
+<sendlabel>Enviara</sendlabel>
+<sendtext1>Petición de Video</sendtext1>
+<sendtext2>De</sendtext2>
+<sendtext3>Ingrese los nombres de los usuarios separados por comas:</sendtext3>
+<sendstart>Enviar</sendstart>
+<sendclose>Cancelar</sendclose>
+<addmsg>Fué añadido a sus contactos</addmsg>
+<blockmsg>Ha sido bloqueado</blockmsg>
+<notconnectedmsg>Aún no ha sido conectado</notconnectedmsg>
+<disconnectedmsg>Ha sido desconectado....</disconnectedmsg>
+<baseurl>http://www.blurrdesigns.com/apps/videoim</baseurl>
+<mainurl>#</mainurl> 
+</title> 
+</data>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encode="UTF-8"?>
+<data>
+<title name="config">
+<xmlscript>http://www.blurrdesigns.com/apps/videoim/XML2.php?</xmlscript>
+<loading>VideoIM wird geladen ...</loading>
+<logintext>Gib einen Usernamen zum Login ein</logintext>
+<loginbutton>Login</loginbutton>
+<alllabel>Alle</alllabel>
+<contactslabel>Meine Kontakte</contactslabel>
+<contactstext1>Klick auf einen User und anschließend auf Speichern</contactstext1>
+<contactssave>Hinzufügen</contactssave>
+<contactstext2>Klick auf einen User und anschließend auf Löschen</contactstext2>
+<contactsdel>Löschen</contactsdel>
+<contactsclose>Schließen</contactsclose>
+<blocklabel>Sperren</blocklabel>
+<blocktext1>Klick auf einen User und anschließend auf Sperren</blocktext1>
+<blocksave>Sperren</blocksave>
+<blocktext2>Klick auf einen User und anschließend auf Entsperren</blocktext2>
+<blockdel>Entsperren</blockdel>
+<blockclose>Schließen</blockclose>
+<accepttext>Möchtest Du diese Nachricht annehmen?</accepttext>
+<acceptlabel>Ja gerne</acceptlabel>
+<acceptdec>Nein danke</acceptdec>
+<acceptvtext>Möchtest Du diese Video-Raum Einladung annehmen:</acceptvtext>
+<acceptvlabel>Ja gerne</acceptvlabel>
+<acceptvdec>Nein danke</acceptvdec>
+<sendlabel>Senden</sendlabel>
+<sendtext1>Video-Room Einladung</sendtext1>
+<sendtext2>Von</sendtext2>
+<sendtext3>Gib die Usernamen mit Kommas getrennt ein:</sendtext3>
+<sendstart>Abschicken</sendstart>
+<sendclose>Abbrechen</sendclose>
+<addmsg>wurde zu Deinen Kontakten hinzugefügt</addmsg>
+<blockmsg>wurde gesperrt</blockmsg>
+<notconnectedmsg>hat den Raum noch nicht betreten</notconnectedmsg>
+<disconnectedmsg>hat den Raum verlassen</disconnectedmsg>
+<baseurl>http://www.blurrdesigns.com/apps/videoim</baseurl>
+<mainurl>#</mainurl>
+</title>
+</data>

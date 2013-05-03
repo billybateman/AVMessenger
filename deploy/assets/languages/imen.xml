@@ -1,0 +1,41 @@
+<?xml version="1.0" encode="UTF-8"?>
+<data>
+<title name="config">
+<xmlscript>http://apps.whitelbl.com/avim/deploy/XML.php?</xmlscript>
+<loading>AV IM Loading...</loading>
+<logintext>Enter a username to login</logintext>
+<loginbutton>Login</loginbutton>
+<alllabel>All</alllabel>
+<contactslabel>My Contacts</contactslabel>
+<contactstext1>Enter a user and click save</contactstext1>
+<contactssave>Add</contactssave>
+<contactstext2>Select a user and click delete</contactstext2>
+<contactsdel>Delete</contactsdel>
+<contactsclose>Close</contactsclose>
+<blocklabel>Block</blocklabel>
+<blocktext1>Enter a user and click Block</blocktext1>
+<blocksave>Block</blocksave>
+<blocktext2>Select a user and click Un-Block</blocktext2>
+<blockdel>UnBlock</blockdel>
+<blockclose>Close</blockclose>
+<accepttext>Do you want to accept this message?</accepttext>
+<acceptlabel>Accept It</acceptlabel>
+<acceptdec>Decline It</acceptdec>
+<acceptvtext>Do you want to accept this Video Room invite from:</acceptvtext>
+<acceptvlabel>Accept It</acceptvlabel>
+<acceptvdec>Decline It</acceptvdec>
+<sendlabel>Send</sendlabel>
+<sendtext1>Video Room Request</sendtext1>
+<sendtext2>From</sendtext2>
+<sendtext3>Enter usernames serparated by commas:</sendtext3>
+<sendstart>Send It</sendstart>
+<sendclose>Cancel It</sendclose>
+<addmsg>was add to your contacts.</addmsg>
+<blockmsg>has blocked</blockmsg>
+<notconnectedmsg>has not connected yet.....</notconnectedmsg>
+<disconnectedmsg>has left....</disconnectedmsg>
+<baseurl></baseurl>
+<mainurl>#</mainurl>
+<type>php</type>
+</title>
+</data>
